@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\bin\Debug\SimplePhysics.exe.config
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\bin\Debug\SimplePhysics.exe
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\bin\Debug\SimplePhysics.pdb
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.Form1.resources
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.Properties.Resources.resources
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.exe
+C:\Users\DELL\source\repos\SimplePhysics\SimplePhysics\obj\Debug\SimplePhysics.pdb
